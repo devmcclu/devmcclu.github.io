@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game-dev on Devlin McClure</title>
+    <link>https://devmcclu.github.io/categories/game-dev/</link>
+    <description>Recent content in game-dev on Devlin McClure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://devmcclu.github.io/categories/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Engine Food Physics</title>
+      <link>https://devmcclu.github.io/portfolio/food-physics/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/food-physics/</guid>
+      <description>January 2020 to May 2020
+Solo Project
+Postmortem - https://gamasutra.com/blogs/DevlinMcClure/20200521/362931/Game_Engine_Food_Physics_Or_Where_Soft_Bodies_Can_Take_Us.php
+An experiment focusing on creating programmatically designed food physics in game engines. This explores the possibilities available to create soft body entities in Unreal Engine 4, and how those soft bodies can be manipulated in engine. Using NVIDIA&amp;rsquo;s FleX library, I created soft body meshes as a starting point of exploring the physics, while later moving on to Material based soft body&amp;rsquo;s to allow meshes to be changed using the Procedural Mesh object as a base.</description>
+    </item>
+    
+    <item>
+      <title>Monty</title>
+      <link>https://devmcclu.github.io/portfolio/monty/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/monty/</guid>
+      <description>September 2019 - December 2019
+Lead Programmer - Team Size 4
+In this adventure, play as the recently imprisoned Gummi Bear Prince Monty, escaping the candy dungeon with the help of your new gummi followers to reclaim your kingdom.
+My work  Control of Gummi bear followers Gummi bear ability code (Bridge, Trampoline, Slingshot)  For this project, I helped design and create a prototype a game around the concept of being a gummy bear.</description>
+    </item>
+    
+    <item>
+      <title>Project FreeGUN</title>
+      <link>https://devmcclu.github.io/portfolio/freegun/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/freegun/</guid>
+      <description>February 2018 to Present
+Solo Project
+A networked multiplayer shooter in the Godot game engine. The goal of this game is to be an open source platform for others to build their games with. Currently in an alpha state to build up the core mechanics.
+Features  Networked Multiplayer  Project FreeGUN started as a project to explore networked multiplayer game programming, but expanded with the goal of being a framework for others to build their games on top of for free.</description>
+    </item>
+    
+    <item>
+      <title>Terminal Rogue Remake</title>
+      <link>https://devmcclu.github.io/portfolio/rogue-terminal-remake/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/rogue-terminal-remake/</guid>
+      <description>September 2019 - October 2019, 3 Weeks
+Solo Project
+Can provide code on request
+My work  Random room generation Enemy movement/design Player health and score  </description>
+    </item>
+    
+    <item>
+      <title>The Shadows That Linger</title>
+      <link>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</guid>
+      <description>January 2020 - Present
+Launching Q1 2021
+Lead Programmer - Crimson Ink Games, Team Size 10
+Beta Builds: https://crimson-ink-games-llc.itch.io/the-shadows-that-linger
+Can provide code on request
+Implemented  Branching Narrative structure built upon Ink Framework Dual world switching system Scriptable Object based system design  For this project, I have created tools to help streamline the process of content creation for the writers and designers to develop more content with as little interaction with pure code as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<style>
+    html {
+        height: 100vh;
+    }
+    body {
+        min-height: 100vh;
+        display: grid;
+        grid-template-rows: 1fr auto;
+    }
+    .footer {
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+</style>
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>Devlin McClure</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" property="og:description" content="Proof of Concept, Programmer (Unreal Engine 4, Blueprints) - Programmatically Designed Soft Body Objects">
+  <meta name="image" property="og:image" content="/">
+  <meta name="author" content="Devlin McClure">
+  <meta name="generator" content="Hugo 0.80.0" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="/css/style.min.css" integrity="" media="screen">
+  
+  <link rel="stylesheet" href="/css/syntax.min.css" integrity="" media="screen">
+
+  <!--Favicon-->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+</head>
+<body class="portfolio">
+    <div class="wrapper"><div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
+    <nav class="uk-navbar-container uk-margin" uk-navbar="mode: click;" style="padding-right: 3rem">
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav uk-visible@s">
+                
+                <li><a style="font-size: 18px; text-transform: none" href="/"> Home
+                        </a></li>
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a style="font-size: 18px; text-transform: none" href="/about">About</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li class="uk-active"><a style="font-size: 18px; text-transform:none"
+                        href="/portfolio">Portfolio</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a style="font-size: 18px; text-transform: none" href="/contact">Contact</a></li>
+                
+                
+            </ul>
+
+            <a class="uk-navbar-toggle uk-hidden@s" uk-toggle="target: #sidenav" uk-navbar-toggle-icon href="#"></a>
+
+        </div>
+    </nav>
+</div>
+
+<div id="sidenav" uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+            
+            <li><a style="font-size: 18px" href="https://devmcclu.github.io"> Home </a></li>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li><a style="font-size: 18px" href="/about">About</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li class="uk-active"><a style="font-size: 18px" href="/portfolio">Portfolio</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li><a style="font-size: 18px" href="/contact">Contact</a></li>
+            
+            
+        </ul>
+
+    </div>
+</div>
+
+
+
+
+<style>
+  p {
+    margin: 0
+  }
+
+  .people-wrap {
+    display: inline-flex;
+    margin-top: 10px;
+  }
+
+  .people-image {
+    display: block;
+    border-radius: 50%;
+     
+  }
+
+  .people {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .name {
+    margin: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #000;
+    font-family: Roboto, sans-serif;
+    line-height: 1.2;
+    margin-top: 2rem;
+  }
+
+  .content img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+  }
+
+  p { margin-bottom: 1em; }
+
+  body p:last-child { margin-bottom: 0em; }
+
+  img.skills{
+    height: 80px;
+  }
+
+  @media only screen and (min-width: 960px) {
+    .content img{max-width:60vw; max-height:60vh}
+
+  .content img{
+      max-width:60vw;
+      max-height:60vh
+  }
+  }
+  .content{
+      width: 90vw;
+      max-width: 1200px
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+</style>
+
+
+<section>
+  <div class="uk-container uk-margin-large-bottom uk-margin-medium-top">
+    <h1 class="uk-text-center uk-heading-medium">Game Engine Food Physics</h1>
+    <p class="uk-text-center uk-text-lead">Proof of Concept, Programmer (Unreal Engine 4, Blueprints) - Programmatically Designed Soft Body Objects</p>
+    <p class="uk-text-center">Published on Jun 19, 2020</p>
+    <p class="uk-text-center">Reading time: 0 minutes.</p>
+    
+
+    <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-text-center uk-flex-center uk-grid-large uk-margin-small-top" uk-grid>
+      
+
+      <div>
+        
+        <div>
+          <button class="uk-button uk-button-default" type="button"> <span uk-icon="icon: github"></span> GitHub</button>
+          <div class="uk-width-auto" uk-dropdown="pos: bottom-center; delay-hide:400">
+            <div class="uk-dropdown-grid uk-child-width-1-2" uk-grid>
+              <div>
+                <ul class="uk-nav uk-dropdown-nav">
+                  
+                  <li><a style="color: #0366d6; font-weight: 600" href="https://github.com/devmcclu/unreal-food-physics"> <span><img loading="lazy" src="https://res.cloudinary.com/samrobbins/image/upload/v1593092912/repo_ec3slk.svg"></span>  unreal-food-physics</a></li>
+                  
+                  <li><a style="color: #0366d6; font-weight: 600" href="https://github.com/devmcclu/unreal-breaking-food%20"> <span><img loading="lazy" src="https://res.cloudinary.com/samrobbins/image/upload/v1593092912/repo_ec3slk.svg"></span>  unreal-breaking-food </a></li>
+                  
+                </ul>
+              </div>
+
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+    
+
+    <hr class="full-width">
+    
+    
+    <h2 class="uk-text-center uk-heading-small">Built with</h2>
+
+    <section >
+      <div class="uk-container">
+
+        <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-3@s uk-child-width-1-2 uk-text-center uk-flex-center"
+             uk-grid>
+          
+          <div class="imagemargin">
+            <a href="https://www.unrealengine.com/">
+            <img class="contain skills" src="https://public.boxcloud.com/api/2.0/internal_files/492919699086/versions/521865489486/representations/png_paged_2048x2048/content/1.png?access_token=1!84BJcfICAN9seKZhNUlCPyOS234aSa5_WvHkUWFlTvsmgfZ1kwUy7y6PbFon-o4Hh5Hk8oktKSyguQckZoLBsW_X7FixX4AXm97A-iZXXFqFJ23AuGmFUUkXKDlzlhvFNWjqr1AAdSGOkiGtcSx9ngzOw_0wjeqw-Hfy09MfGQg3FBt02AnwenTg0ScFrgB5iG4LYckplOewjC9Lnc-Uw_Qh7LCL035UjUsz47YejoxKiug__45omh_X_kqq-IXpWbekRJqbIvnSYziWQoULc-hlmB_pfjlmshkvloKkYSjS4vYrVQSY_fDrS_msqGuCZxVghihBwrpc9vuaB9YCHRdsCwshYYONuw8Nv4k7Skou8WzIDR9tXaNLUxMYMh7Vefjimyytj5COcaUhjSn3migPuA1-ze4-rrhQul4tuWBts0H3Y0uA9SV765t3AnkIbrkNZRXuM63oN-zaezg68zjY9MwcNZ-xbjKxcRG1fKVxCzxXijuEXWi-Gac93vlHsSw2WDmsjLvM4EnbsvxsDRgQMMgL_sIC9NdRwOXCoogPOOVxOKBnGkVkDLqsy-TyRA..&amp;shared_link=https%3A%2F%2Fepicgames.ent.box.com%2Fs%2Fr5xk6a6ch44qng7bsjfqkvqryartjhlv&amp;box_client_name=box-content-preview&amp;box_client_version=2.60.0" alt="Unreal Engine 4" loading="lazy" style="cursor: pointer">
+            </a>
+          </div>
+          
+        </div>
+
+      </div>
+
+    </section>
+
+    <hr class="full-width">
+    
+    
+
+    <div class="content">
+      <p>January 2020 to May 2020</p>
+<p>Solo Project</p>
+<p>Postmortem - <a href="https://gamasutra.com/blogs/DevlinMcClure/20200521/362931/Game_Engine_Food_Physics_Or_Where_Soft_Bodies_Can_Take_Us.php">https://gamasutra.com/blogs/DevlinMcClure/20200521/362931/Game_Engine_Food_Physics_Or_Where_Soft_Bodies_Can_Take_Us.php</a></p>
+<p>An experiment focusing on creating programmatically designed food physics in game engines. This explores the possibilities available to create soft body entities in Unreal Engine 4, and how those soft bodies can be manipulated in engine. Using NVIDIA&rsquo;s FleX library, I created soft body meshes as a starting point of exploring the physics, while later moving on to Material based soft body&rsquo;s to allow meshes to be changed using the Procedural Mesh object as a base.</p>
+<h2 id="features">Features</h2>
+<ul>
+<li>Soft Body Physics</li>
+<li>Dynamically breaking objects</li>
+</ul>
+
+    </div>
+  </div>
+  </div>
+</section>
+
+
+
+    </div>
+<footer class="footer">
+  <div class="uk-container">
+
+
+    <div class="uk-grid-small uk-child-width-1-4@m uk-text-center uk-flex-center uk-margin-medium-bottom" uk-grid>
+      <div class="uk-margin-small-bottom">
+        <h5 class="uk-margin-small-bottom">Email</h5>
+        <a href="mailto:mccluredt@gmail.com">mccluredt@gmail.com</a>
+
+      </div>
+      <div>
+        <h5 class="uk-margin-small-bottom">Address</h5>
+                  <div uk-lightbox>
+                    <a href="https://goo.gl/maps/UH8PSZeTnVRsa6A56" data-caption="Indianapolis, Indiana"
+                      data-type="iframe">Indianapolis, Indiana</a>
+      </div>
+      </div>
+
+    </div>
+
+
+
+
+
+  <div class="footer-copyright uk-text-center" style="padding-bottom: 1rem">
+    <img loading="lazy" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1.2em;
+  width: 1.2em;" alt="Creative Commons">
+    <img loading="lazy" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1.2em;
+  width: 1.2em;" alt="CC-BY">
+    2020
+    Devlin McClure
+
+
+  </div>
+</footer>
+
+
+<!-- JS Plugins -->
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
+
+</body>
+</html>
