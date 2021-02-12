@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unreal on Devlin McClure</title>
+    <link>https://devmcclu.github.io/categories/unreal/</link>
+    <description>Recent content in unreal on Devlin McClure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://devmcclu.github.io/categories/unreal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Engine Food Physics</title>
+      <link>https://devmcclu.github.io/portfolio/food-physics/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/food-physics/</guid>
+      <description>January 2020 to May 2020
+Solo Project
+Postmortem - https://gamasutra.com/blogs/DevlinMcClure/20200521/362931/Game_Engine_Food_Physics_Or_Where_Soft_Bodies_Can_Take_Us.php
+An experiment focusing on creating programmatically designed food physics in game engines. This explores the possibilities available to create soft body entities in Unreal Engine 4, and how those soft bodies can be manipulated in engine. Using NVIDIA&amp;rsquo;s FleX library, I created soft body meshes as a starting point of exploring the physics, while later moving on to Material based soft body&amp;rsquo;s to allow meshes to be changed using the Procedural Mesh object as a base.</description>
+    </item>
+    
+  </channel>
+</rss>

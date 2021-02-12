@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unity on Devlin McClure</title>
+    <link>https://devmcclu.github.io/categories/unity/</link>
+    <description>Recent content in unity on Devlin McClure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://devmcclu.github.io/categories/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monty</title>
+      <link>https://devmcclu.github.io/portfolio/monty/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/monty/</guid>
+      <description>September 2019 - December 2019
+Lead Programmer - Team Size 4
+In this adventure, play as the recently imprisoned Gummi Bear Prince Monty, escaping the candy dungeon with the help of your new gummi followers to reclaim your kingdom.
+My work  Control of Gummi bear followers Gummi bear ability code (Bridge, Trampoline, Slingshot)  For this project, I helped design and create a prototype a game around the concept of being a gummy bear.</description>
+    </item>
+    
+    <item>
+      <title>The Shadows That Linger</title>
+      <link>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</guid>
+      <description>January 2020 - Present
+Launching Q1 2021
+Lead Programmer - Crimson Ink Games, Team Size 10
+Beta Builds: https://crimson-ink-games-llc.itch.io/the-shadows-that-linger
+Can provide code on request
+Implemented  Branching Narrative structure built upon Ink Framework Notification system for important in-game events Scriptable Object based system design  For this project, I have created tools to help streamline the process of content creation for the writers and designers to develop more content with as little interaction with pure code as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

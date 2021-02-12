@@ -8,11 +8,56 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://devmcclu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>cplus</title>
+      <link>https://devmcclu.github.io/categories/cplus/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/categories/cplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>csharp</title>
+      <link>https://devmcclu.github.io/categories/csharp/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/categories/csharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>game-dev</title>
       <link>https://devmcclu.github.io/categories/game-dev/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
       <guid>https://devmcclu.github.io/categories/game-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://devmcclu.github.io/categories/linux/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unity</title>
+      <link>https://devmcclu.github.io/categories/unity/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/categories/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unreal</title>
+      <link>https://devmcclu.github.io/categories/unreal/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/categories/unreal/</guid>
       <description></description>
     </item>
     
