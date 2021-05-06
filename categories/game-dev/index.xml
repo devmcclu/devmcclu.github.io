@@ -6,11 +6,37 @@
     <description>Recent content in game-dev on Devlin McClure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://devmcclu.github.io/categories/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://devmcclu.github.io/categories/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tile Fighters</title>
+      <link>https://devmcclu.github.io/portfolio/tile-fighters/</link>
+      <pubDate>Wed, 05 May 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/tile-fighters/</guid>
+      <description>March 2021 to May 2021
+Solo Project
+A project focusing on creating tools and expanding the use of Unreal Engine for a 3D unit management simultanious networked multiplayer game. In this, I explored ways developers can mix the use of C++ and Blueprints in a project and how to best spend time when building a game and other tools.
+Features  Simultanious networked multiplayer 3D Tilemap Editing Tool Custom C++ and Blueprint data types  Tilemap Editor Purpose Making grid based games in 2D has been done fairly well, in tools such as Tiled and the build in Tilemap tools in Unity and Godot.</description>
+    </item>
+    
+    <item>
+      <title>The Shadows That Linger</title>
+      <link>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</link>
+      <pubDate>Wed, 28 Apr 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</guid>
+      <description>January 2020 - Present
+Released March 17, 2021
+Programmer - Crimson Ink Games, Team Size 6
+Download the game: https://crimson-ink-games-llc.itch.io/the-shadows-that-linger
+Can provide code on request
+About The Game Play as a medium named Ilana in this spooky mystery and solve your sister&amp;rsquo;s murder on behalf of her lingering shadow. With time running out before her restless spirit becomes lost in purgatory forever, converse with your newly acquainted in-laws to gather leads in tense dialogues, explore their picturesque estate, and use your crystal ball to peer into the realm of shadows and discover clues with spiritual connections.</description>
+    </item>
+    
     <item>
       <title>Game Engine Food Physics</title>
       <link>https://devmcclu.github.io/portfolio/food-physics/</link>
-      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2020 23:00:00 +0000</pubDate>
       
       <guid>https://devmcclu.github.io/portfolio/food-physics/</guid>
       <description>January 2020 to May 2020
@@ -22,7 +48,7 @@ An experiment focusing on creating programmatically designed food physics in gam
     <item>
       <title>Project FreeGUN</title>
       <link>https://devmcclu.github.io/portfolio/freegun/</link>
-      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2020 23:00:00 +0000</pubDate>
       
       <guid>https://devmcclu.github.io/portfolio/freegun/</guid>
       <description>February 2018 to Present
@@ -34,27 +60,13 @@ Features  Networked Multiplayer  Project FreeGUN started as a project to explore
     <item>
       <title>Terminal Rogue Remake</title>
       <link>https://devmcclu.github.io/portfolio/rogue-terminal-remake/</link>
-      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Oct 2019 23:00:00 +0000</pubDate>
       
       <guid>https://devmcclu.github.io/portfolio/rogue-terminal-remake/</guid>
       <description>September 2019 - October 2019, 3 Weeks
 Solo Project
 Can provide code on request
 My work  Random room generation Enemy movement/design Player health and score  </description>
-    </item>
-    
-    <item>
-      <title>The Shadows That Linger</title>
-      <link>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</link>
-      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
-      
-      <guid>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</guid>
-      <description>January 2020 - Present
-Released March 17, 2021
-Programmer - Crimson Ink Games, Team Size 6
-Download the game: https://crimson-ink-games-llc.itch.io/the-shadows-that-linger
-Can provide code on request
-About The Game Play as a medium named Ilana in this spooky mystery and solve your sister&amp;rsquo;s murder on behalf of her lingering shadow. With time running out before her restless spirit becomes lost in purgatory forever, converse with your newly acquainted in-laws to gather leads in tense dialogues, explore their picturesque estate, and use your crystal ball to peer into the realm of shadows and discover clues with spiritual connections.</description>
     </item>
     
   </channel>

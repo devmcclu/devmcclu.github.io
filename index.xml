@@ -8,45 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://devmcclu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game Engine Food Physics</title>
-      <link>https://devmcclu.github.io/portfolio/food-physics/</link>
-      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      <title>Tile Fighters</title>
+      <link>https://devmcclu.github.io/portfolio/tile-fighters/</link>
+      <pubDate>Wed, 05 May 2021 23:00:00 +0000</pubDate>
       
-      <guid>https://devmcclu.github.io/portfolio/food-physics/</guid>
-      <description>January 2020 to May 2020
+      <guid>https://devmcclu.github.io/portfolio/tile-fighters/</guid>
+      <description>March 2021 to May 2021
 Solo Project
-Postmortem - https://gamasutra.com/blogs/DevlinMcClure/20200521/362931/Game_Engine_Food_Physics_Or_Where_Soft_Bodies_Can_Take_Us.php
-An experiment focusing on creating programmatically designed food physics in game engines. This explores the possibilities available to create soft body entities in Unreal Engine 4, and how those soft bodies can be manipulated in engine. Using NVIDIA&amp;rsquo;s FleX library, I created soft body meshes as a starting point of exploring the physics, while later moving on to Material based soft body&amp;rsquo;s to allow meshes to be changed using the Procedural Mesh object as a base.</description>
-    </item>
-    
-    <item>
-      <title>Project FreeGUN</title>
-      <link>https://devmcclu.github.io/portfolio/freegun/</link>
-      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
-      
-      <guid>https://devmcclu.github.io/portfolio/freegun/</guid>
-      <description>February 2018 to Present
-Solo Project
-A networked multiplayer shooter in the Godot game engine. The goal of this game is to be an open source platform for others to build their games with. Currently in an alpha state to build up the core mechanics.
-Features  Networked Multiplayer  Project FreeGUN started as a project to explore networked multiplayer game programming, but expanded with the goal of being a framework for others to build their games on top of for free.</description>
-    </item>
-    
-    <item>
-      <title>Terminal Rogue Remake</title>
-      <link>https://devmcclu.github.io/portfolio/rogue-terminal-remake/</link>
-      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
-      
-      <guid>https://devmcclu.github.io/portfolio/rogue-terminal-remake/</guid>
-      <description>September 2019 - October 2019, 3 Weeks
-Solo Project
-Can provide code on request
-My work  Random room generation Enemy movement/design Player health and score  </description>
+A project focusing on creating tools and expanding the use of Unreal Engine for a 3D unit management simultanious networked multiplayer game. In this, I explored ways developers can mix the use of C++ and Blueprints in a project and how to best spend time when building a game and other tools.
+Features  Simultanious networked multiplayer 3D Tilemap Editing Tool Custom C++ and Blueprint data types  Tilemap Editor Purpose Making grid based games in 2D has been done fairly well, in tools such as Tiled and the build in Tilemap tools in Unity and Godot.</description>
     </item>
     
     <item>
       <title>The Shadows That Linger</title>
       <link>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</link>
-      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Apr 2021 23:00:00 +0000</pubDate>
       
       <guid>https://devmcclu.github.io/portfolio/the-shadows-that-linger/</guid>
       <description>January 2020 - Present
@@ -58,6 +34,30 @@ About The Game Play as a medium named Ilana in this spooky mystery and solve you
     </item>
     
     <item>
+      <title>Game Engine Food Physics</title>
+      <link>https://devmcclu.github.io/portfolio/food-physics/</link>
+      <pubDate>Wed, 20 May 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/food-physics/</guid>
+      <description>January 2020 to May 2020
+Solo Project
+Postmortem - https://gamasutra.com/blogs/DevlinMcClure/20200521/362931/Game_Engine_Food_Physics_Or_Where_Soft_Bodies_Can_Take_Us.php
+An experiment focusing on creating programmatically designed food physics in game engines. This explores the possibilities available to create soft body entities in Unreal Engine 4, and how those soft bodies can be manipulated in engine. Using NVIDIA&amp;rsquo;s FleX library, I created soft body meshes as a starting point of exploring the physics, while later moving on to Material based soft body&amp;rsquo;s to allow meshes to be changed using the Procedural Mesh object as a base.</description>
+    </item>
+    
+    <item>
+      <title>Project FreeGUN</title>
+      <link>https://devmcclu.github.io/portfolio/freegun/</link>
+      <pubDate>Sun, 19 Jan 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/freegun/</guid>
+      <description>February 2018 to Present
+Solo Project
+A networked multiplayer shooter in the Godot game engine. The goal of this game is to be an open source platform for others to build their games with. Currently in an alpha state to build up the core mechanics.
+Features  Networked Multiplayer  Project FreeGUN started as a project to explore networked multiplayer game programming, but expanded with the goal of being a framework for others to build their games on top of for free.</description>
+    </item>
+    
+    <item>
       <title>Making a new Website</title>
       <link>https://devmcclu.github.io/blog/first-blog/</link>
       <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
@@ -66,6 +66,18 @@ About The Game Play as a medium named Ilana in this spooky mystery and solve you
       <description>For a long time this website has had a couple of links to contact me, but those days are over.
 Now I have a brand new Hugo website with a custom written theme complete with
  A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Why Hugo? The first question is why a site builder?</description>
+    </item>
+    
+    <item>
+      <title>Terminal Rogue Remake</title>
+      <link>https://devmcclu.github.io/portfolio/rogue-terminal-remake/</link>
+      <pubDate>Sat, 19 Oct 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://devmcclu.github.io/portfolio/rogue-terminal-remake/</guid>
+      <description>September 2019 - October 2019, 3 Weeks
+Solo Project
+Can provide code on request
+My work  Random room generation Enemy movement/design Player health and score  </description>
     </item>
     
   </channel>
